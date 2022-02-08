@@ -8,7 +8,7 @@
 
 <ul>
   <li>🌟I'm currently working on <b>Hotel My Camp</b></li>
-  <li>💬 Ask me about java, sql, html, css, lambda ,selenium</li>
+  <li>💬 Ask me about java, sql, html, css, lambda ,selenium 4</li>
   </ul>
 
 
